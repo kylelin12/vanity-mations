@@ -1,0 +1,16 @@
+.container {
+    text-align: center;
+    position: relative;
+}
+
+.container > svg {
+    display: inline-block;
+    margin: auto;
+    position: relative;
+    border: 1px dotted #00aeef;
+    cursor: none;
+}
+
+#svg-frame {
+    background-color: #FEFEFE;
+}
